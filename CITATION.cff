@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'MATHLAB , PYTHON'
+message: 'LENUGAJE M, PYTHON'
+type: software
+authors:
+  - given-names: Kenia
+    family-names: Cardenas Manzo
+    email: kenia.cardenas201@tectijuana.edu.mz
+    affiliation: TecNM-ITT
+repository-code: 'https://github.com/keniacardenasm/Practica2MSF'
+keywords:
+  - sistema cardiovascular
+  - circuito RLC
+  - circuito PID
+  - MODELO MATEMATICO
+  - SIMULACIONES NUMERICAS
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-10-17'
