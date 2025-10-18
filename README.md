@@ -1,5 +1,4 @@
-[![Open in MATLAB Online]
-
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=keniacardenasm/Practica2MSF)
 # Práctica: Sistema cardiovascular
 
 ## Información de la estudiante
@@ -37,7 +36,7 @@ El modelo de Windkessel de cuatro elementos contiene dos elementos dinámicos. P
 
 \2. Existe una clara analogía entre los elementos eléctricos y los componentes hidráulicos implicados en el efecto Windkessel. En consecuencia, se relacionan fácilmente con el significado hemodinámico y el acoplamiento ventrículo-arterial.
 
-Palabras clave: ???; ???; ???; ???; ???
+Palabras clave: sistema cardiovascular ; circuito RLC; simulaciones numericas; controlador PID ; modelo matematico
 
 ## Lista de archivos incluidos en el repositorio
 \1. Cuaderno computacional de MATLAB [.mlx].
